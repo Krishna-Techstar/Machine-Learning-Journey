@@ -1,0 +1,1 @@
+print("Hello World!! Myself Krishnakant Sharma its my day 1 learning Python on 21 nov 2025")

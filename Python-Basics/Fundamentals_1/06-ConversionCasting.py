@@ -1,0 +1,6 @@
+ans1 = int(5 + 20.99)
+ans2 = float(10 + 20.99)
+ans3 = (5+10.0)
+print(ans1, type(ans1))
+print(ans2, type(ans2))
+print(ans3, type(ans3))

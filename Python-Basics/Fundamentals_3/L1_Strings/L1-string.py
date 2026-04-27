@@ -6,3 +6,4 @@ print(len(word))
 print(word + word2)
 # slicing
 print(word[2:4])
+

@@ -1,0 +1,5 @@
+Hello this sample file 
+i am learning python 
+till now i am learning file operation
+and i have to complete assignment for 
+fundamentals 2 3 4 5 then my python course will be completed

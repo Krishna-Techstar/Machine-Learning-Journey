@@ -1,0 +1,1 @@
+z = open("Sample3.txt", "x")
